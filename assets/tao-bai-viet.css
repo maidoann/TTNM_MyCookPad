@@ -1,0 +1,253 @@
+.group-child {
+  position: absolute;
+  top: 359px;
+  left: 6px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: #f0f0f0;
+  width: 380px;
+  height: 453px;
+}
+.battery-icon6 {
+  position: absolute;
+  top: calc(50% - 5.9px);
+  right: 1px;
+  width: 24.5px;
+  height: 11.5px;
+  object-fit: cover;
+}
+.combined-shape-icon6,
+.wi-fi-icon6 {
+  position: relative;
+  width: 17.1px;
+  height: 10.7px;
+}
+.wi-fi-icon6 {
+  width: 15.4px;
+  height: 11.1px;
+}
+.symbols6 {
+  position: absolute;
+  top: calc(50% - 5.4px);
+  right: 13.5px;
+  width: 68px;
+  height: 13px;
+  overflow: hidden;
+}
+.time34 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 29.5px;
+  letter-spacing: -0.17px;
+  font-weight: 500;
+}
+.barsstatus-time6 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 0;
+  width: 180px;
+  height: 22px;
+}
+.status-bar6 {
+  position: absolute;
+  width: calc(100% - 11px);
+  top: 0;
+  right: 11px;
+  left: 0;
+  height: 44px;
+  font-size: var(--font-size-mini);
+  color: var(--neutral-90);
+  font-family: var(--font-sf-pro-display);
+}
+.group-item {
+  position: absolute;
+  top: 70px;
+  left: 26px;
+  border-radius: 50%;
+  background-color: var(--colour-styles-neutral-colour-gray-4);
+  width: 43px;
+  height: 43px;
+}
+.line5 {
+  position: absolute;
+  top: calc(50% + 4px);
+  left: calc(50% - 67.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--colour-styles-label-colour);
+  width: 135px;
+  height: 5px;
+}
+.home-indicator5,
+.nav-bar-icon2 {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.home-indicator5 {
+  top: 778px;
+  background-color: var(--colour-styles-neutral-colour-white);
+  height: 34px;
+  overflow: hidden;
+}
+.nav-bar-icon2 {
+  top: 692px;
+  height: 120px;
+  object-fit: contain;
+}
+.mquxx-doan {
+  position: absolute;
+  top: 67px;
+  left: 80px;
+  font-weight: 600;
+}
+.nh {
+  margin: 0;
+}
+.mquxx-doan1,
+.mquxx-doan2 {
+  position: absolute;
+  font-weight: 600;
+}
+.mquxx-doan1 {
+  top: 78px;
+  left: 33px;
+  font-size: 7px;
+  text-align: center;
+}
+.mquxx-doan2 {
+  top: 32px;
+  left: 147px;
+}
+.line7 {
+  position: absolute;
+  top: calc(50% - 34px);
+  left: calc(50% - 18px);
+  border-radius: var(--br-81xl);
+  background-color: #bfb6b6;
+  width: 41px;
+  height: 5px;
+}
+.group-inner {
+  position: absolute;
+  top: 93px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  width: 90px;
+  height: 15px;
+}
+.quyen-rieng-tu {
+  position: absolute;
+  top: 94px;
+  left: 86px;
+  font-size: var(--font-size-3xs);
+  color: #2a746e;
+  display: flex;
+  align-items: center;
+  width: 74px;
+  height: 12px;
+}
+.polygon-icon {
+  position: absolute;
+  top: 98px;
+  left: 160px;
+  width: 7px;
+  height: 6.1px;
+  object-fit: contain;
+}
+.chia-s-v {
+  position: absolute;
+  top: 127px;
+  left: 31px;
+  font-size: var(--font-size-xs);
+  color: #827b7b;
+  display: flex;
+  align-items: center;
+  width: 185px;
+  height: 26px;
+}
+.mquxx-doan3 {
+  position: absolute;
+  top: 15px;
+  left: 68px;
+  font-weight: 600;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 56px;
+  height: 53px;
+  object-fit: cover;
+}
+.mquxx-doan-parent {
+  position: absolute;
+  top: 401px;
+  left: 33px;
+  width: 202px;
+  height: 53px;
+  cursor: pointer;
+}
+.group-div,
+.mquxx-doan-container {
+  position: absolute;
+  top: 156px;
+  left: 0;
+  width: 244px;
+  height: 53px;
+}
+.group-div {
+  top: 78px;
+  left: 1px;
+  width: 165px;
+}
+.mquxx-doan-group {
+  position: absolute;
+  top: 473px;
+  left: 33px;
+  width: 244px;
+  height: 209px;
+}
+.profileavatar-item,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: -6px;
+  width: 386px;
+  height: 812px;
+}
+.profileavatar-item {
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--colour-styles-secondary-colour-secondary-40);
+  width: 43px;
+  height: 43px;
+}
+.unsplashij24uq1smwm-icon8 {
+  position: absolute;
+  top: 4.3px;
+  left: 2.1px;
+  border-radius: 50%;
+  width: 38.7px;
+  height: 34.4px;
+  object-fit: cover;
+}
+.profileavatar1 {
+  position: absolute;
+  top: 70px;
+  left: 20px;
+  width: 43px;
+  height: 43px;
+}
+.tao-bai-viet {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--colour-styles-neutral-colour-white);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-style-normal-text-bold-size);
+  color: var(--colour-styles-label-colour);
+  font-family: var(--text-style-smaller-text-semi-bold);
+}
